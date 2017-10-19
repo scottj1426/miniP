@@ -1,1 +1,1 @@
-James Scott
+let my name = James Scott;
